@@ -19,7 +19,6 @@ body{
   #body{
     width:1000px;
     padding:30px;
-    margin:auto;
     border-radius:600px;
     text-align:center;
     background-color:red;
@@ -30,6 +29,10 @@ body{
     -moz-border-radius:600px;
     -ms-border-radius:600px;
     -o-border-radius:600px;
+    max-width: 75%;
+    height: auto;
+    margin: 0 auto;
+    
 }
   
   #name{
